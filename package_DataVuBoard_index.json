@@ -1,0 +1,31 @@
+{
+  "packages": [
+    {
+      "name": "DataVu",
+      "maintainer": "Plessey",
+      "websiteURL": "https://github.com/Plessey/DataVu",
+      "email": "gethn.pickard@plesseysemi.com",
+      "help": {
+        "online": "http://www.plesseysemiconductors.com/"
+      },
+      "platforms": [
+        {
+          "name": "DataVu",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/Plessey/DataVuBoard/raw/master/DataVuBoard.zip",
+          "archiveFileName": "DataVuBoard.zip",
+          "checksum": "SHA-256:6DA374DF73C58408185D697B4F5F8F68E8D10E2208F263543F2B2098103D9A36",
+          "size": "243132",
+          "boards": [
+            {"name": "DataVuDriver"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
+
